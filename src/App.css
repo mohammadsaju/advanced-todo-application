@@ -57,6 +57,7 @@ h3{
 .btn{
   padding: 10px 20px;
   border: none;
+  background: rgb(192, 153, 153);
 }
 .search {
   outline: none;
